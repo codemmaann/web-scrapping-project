@@ -36,11 +36,3 @@ jobs:
     - name: Run analysis.py
       run: |
         python analysis.py
-        
-    - name: Commit and push if changed
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update from GitHub Action"
-        git push
