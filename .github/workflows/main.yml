@@ -40,6 +40,10 @@ jobs:
     - name: Run scraper_hn.py
       run: |
         python scraper_hn.py
+
+    - name: Run cleaner.py
+      run: |
+        python cleaner.py
         
     - name: Run analysis.py
       run: |
