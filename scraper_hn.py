@@ -31,7 +31,7 @@ def scrape_hn_api():
     df = pd.DataFrame(rows)
     df.to_csv("raw_data/hn.csv", mode="a", header=False, index=False)
 
-def scrape_hn():
+if __name__=="__main__":
     scrape_hn_api()
 
 

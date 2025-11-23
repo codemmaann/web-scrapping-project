@@ -67,7 +67,8 @@ def scrape_multiple_subreddits(subreddits, max_posts=15, delay=5):
 
     return all_posts
 
-def scrape_red():
+
+if __name__=="__main__":
     targets = ["technology", "programming"]
 
     targets = ["technology", "programming"]
@@ -78,4 +79,3 @@ def scrape_red():
         save_to_csv(all_posts)
         print("\nExample post:")
         print(all_posts[0])
-

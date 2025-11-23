@@ -33,9 +33,13 @@ jobs:
       run: |
         python -c "import nltk; nltk.download('vader_lexicon')"
         
-    - name: Run update_data.py
+    - name: Run scraper_reddit.py
       run: |
-        python update_data.py
+        python scraper_reddit.py
+
+    - name: Run scraper_hn.py
+      run: |
+        python scraper_hn.py
         
     - name: Run analysis.py
       run: |
