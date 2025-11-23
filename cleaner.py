@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 def clean_hn_data():
-    hn_df = pd.read_csv(r'raw_data\hn.csv', names=['title', 'upvotes', 'comments', 'link', 'post_time'])
+    hn_df = pd.read_csv('raw_data/hn.csv', names=['title', 'upvotes', 'comments', 'link', 'post_time'])
     hn_df['post_time'] = hn_df['post_time'].str.split('.').str[0]
     hn_df['post_time'] = pd.to_datetime(hn_df['post_time'])
     hn_df['title'] = hn_df['title'].str.replace('"', '')
@@ -12,9 +12,9 @@ def clean_hn_data():
     return hn_df
 
 def clean_reddit_data():
-    reddit_df = pd.read_csv(r'raw_data\reddit.csv')
-    reddit_prog_df = pd.read_csv(r'raw_data\reddit_programming.csv')
-    reddit_tech_df = pd.read_csv(r'raw_data\reddit_technology.csv')
+    reddit_df = pd.read_csv('raw_data/reddit.csv')
+    reddit_prog_df = pd.read_csv('raw_data/reddit_programming.csv')
+    reddit_tech_df = pd.read_csv('raw_data/reddit_technology.csv')
     
     all_reddit = pd.concat([reddit_df, reddit_prog_df, reddit_tech_df], ignore_index=True)
     all_reddit = all_reddit.drop_duplicates(subset=['title', 'link'])
