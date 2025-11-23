@@ -1,0 +1,8 @@
+pandas
+plotly
+sklearn
+nltk
+os
+shutil
+requests
+datetime
