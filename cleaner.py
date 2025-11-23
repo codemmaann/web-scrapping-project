@@ -2,7 +2,6 @@ import pandas as pd
 import os
 
 def clean_hn_data():
-    """Clean Hacker News data"""
     hn_df = pd.read_csv(r'raw_data\hn.csv', names=['title', 'upvotes', 'comments', 'link', 'post_time'])
     hn_df['post_time'] = hn_df['post_time'].str.split('.').str[0]
     hn_df['post_time'] = pd.to_datetime(hn_df['post_time'])
@@ -13,7 +12,6 @@ def clean_hn_data():
     return hn_df
 
 def clean_reddit_data():
-    """Clean and combine all Reddit data"""
     reddit_df = pd.read_csv(r'raw_data\reddit.csv')
     reddit_prog_df = pd.read_csv(r'raw_data\reddit_programming.csv')
     reddit_tech_df = pd.read_csv(r'raw_data\reddit_technology.csv')
@@ -29,7 +27,6 @@ def clean_reddit_data():
     return all_reddit
 
 def main():
-    # Clean both datasets
     hn_clean = clean_hn_data()
     reddit_clean = clean_reddit_data()
     
@@ -38,7 +35,6 @@ def main():
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
-    # Save cleaned data
     hn_clean.to_csv('clean_data/hn_cleaned.csv', index=False)
     reddit_clean.to_csv('clean_data/reddit_cleaned.csv', index=False)
     
@@ -48,5 +44,4 @@ def main():
     
     return hn_clean, reddit_clean
 
-# Run cleaning
 hn_cleaned, reddit_cleaned = main()

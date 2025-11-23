@@ -3,13 +3,11 @@ import pandas as pd
 from datetime import datetime
 
 def scrape_hn_api():
-    # Get list of top story IDs
     top_stories_url = "https://hacker-news.firebaseio.com/v0/topstories.json"
     story_ids = requests.get(top_stories_url).json()
 
     rows = []
 
-    # Limit results for speed (front page = first ~30 stories)
     for story_id in story_ids[:30]:
         item_url = f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
         item = requests.get(item_url).json()

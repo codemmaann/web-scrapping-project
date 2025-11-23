@@ -1,4 +1,3 @@
-// List of analysis files stored in your GitHub Pages repo
 const STATIC_EXPORTS = [
     "visualizations/analysis_report.txt",
     "visualizations/correlation_matrix.png",
@@ -12,12 +11,10 @@ const STATIC_EXPORTS = [
     "visualizations/wordcount_engagement.png"
 ];
 
-// Draw everything on page load
 document.addEventListener("DOMContentLoaded", () => {
     renderStaticAssets();
 });
 
-// Render images + txt files
 function renderStaticAssets() {
     const container = document.getElementById("static-assets");
     container.innerHTML = ""; // clear old content
