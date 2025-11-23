@@ -40,3 +40,11 @@ jobs:
     - name: Run analysis.py
       run: |
         python analysis.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Auto-update: new data and analysis $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+        git push
