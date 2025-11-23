@@ -2,12 +2,9 @@ name: Run Python Scripts and Deploy
 
 on:
   schedule:
-    # Run every 6 hours (at 0, 6, 12, 18 hours)
     - cron: '0 */6 * * *'
-  # Also run on push to main branch
   push:
     branches: [ main ]
-  # Allow manual triggers
   workflow_dispatch:
 
 jobs:
@@ -26,7 +23,11 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        pip install -r requirements.txt
+        
+    - name: List installed packages (for debugging)
+      run: |
+        pip list
         
     - name: Run update_data.py
       run: |
@@ -43,27 +44,3 @@ jobs:
         git add .
         git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update from GitHub Action"
         git push
-      # Only commit if there are changes and we're on schedule
-      if: github.event_name == 'schedule'
-
-  deploy:
-    needs: run-scripts
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      
-    - name: Setup Pages
-      uses: actions/configure-pages@v3
-      
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2
-      with:
-        # Upload the docs directory (or change to your output directory)
-        path: './docs'
-        
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v2
