@@ -89,14 +89,11 @@ class RedditScraper:
                 "title": post.get("title", "N/A"),
                 "upvotes": post.get("ups", 0),
                 "comments": post.get("num_comments", 0),
-                "link": f"https://www.reddit.com{post.get('permalink', '')}",
+                "link": "https://www.reddit.com" + post.get("permalink", ""),
                 "author": post.get("author", "N/A"),
                 "post_time": datetime.utcfromtimestamp(post.get("created_utc", 0)),
                 "scraped_at": datetime.utcnow(),
-                "subreddit": subreddit,
-                "post_id": post.get("id", ""),
-                "score": post.get("score", 0),
-                "over_18": post.get("over_18", False)
+                "subreddit": subreddit
             })
         
         return posts
@@ -128,7 +125,7 @@ def scrape_multiple_subreddits(subreddits, max_posts=15, delay_between_subreddit
         
         if posts:
             all_posts.extend(posts)
-            save_to_csv(posts, f"raw_data/reddit_{subreddit}_{datetime.now().strftime('%Y%m%d')}.csv")
+            save_to_csv(posts, f"raw_data/reddit_{subreddit}.csv")
         
         if i < len(subreddits) - 1:
             delay = random.uniform(delay_between_subreddits, delay_between_subreddits + 3)
@@ -137,37 +134,6 @@ def scrape_multiple_subreddits(subreddits, max_posts=15, delay_between_subreddit
     
     return all_posts
 
-def scrape_reddit_pushshift(subreddit, max_posts=20):
-    url = f"https://api.pushshift.io/reddit/search/submission/?subreddit={subreddit}&size={max_posts}&sort=desc"
-    
-    headers = {
-        "User-Agent": "Research Bot v1.0",
-        "Accept": "application/json"
-    }
-    
-    try:
-        response = requests.get(url, headers=headers, timeout=15)
-        response.raise_for_status()
-        data = response.json()
-        
-        posts = []
-        for post in data["data"]:
-            posts.append({
-                "title": post.get("title", "N/A"),
-                "upvotes": post.get("ups", 0),
-                "comments": post.get("num_comments", 0),
-                "link": "https://www.reddit.com" + post.get("permalink", ""),
-                "author": post.get("author", "N/A"),
-                "post_time": datetime.utcfromtimestamp(post.get("created_utc", 0)),
-                "scraped_at": datetime.utcnow(),
-                "subreddit": subreddit
-            })
-        
-        return posts
-        
-    except Exception as e:
-        print(f"Error with Pushshift API for r/{subreddit}: {e}")
-        return None
 
 if __name__ == "__main__":
     targets = ["technology", "programming"]
@@ -179,8 +145,4 @@ if __name__ == "__main__":
     )
     
     if all_posts:
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        save_to_csv(all_posts, f"raw_data/reddit_combined_{timestamp}.csv")
-        print(f"\nScraped {len(all_posts)} total posts")
-        print("\nExample post:")
-        print(all_posts[0])
+        save_to_csv(all_posts, f"raw_data/reddit.csv")
