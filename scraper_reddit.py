@@ -5,9 +5,11 @@ import pandas as pd
 import requests
 
 def scrape_reddit(subreddit, max_posts=20):
-    url = f"https://www.reddit.com/r/{subreddit}/hot.json?limit={max_posts}"
+    url = f"https://api.reddit.com/r/{subreddit}/hot?limit={max_posts}"
 
-    headers = {"User-Agent": "python:web-scraping-project:v1.0 (by /u/codemmaann)"}
+    headers = {
+        "User-Agent": "python:web-scraping-project:1.0 (by /u/codemmaann)"
+    }
 
     try:
         r = requests.get(url, headers=headers, timeout=10)
