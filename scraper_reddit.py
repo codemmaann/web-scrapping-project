@@ -7,7 +7,7 @@ import requests
 def scrape_reddit(subreddit, max_posts=20):
     url = f"https://www.reddit.com/r/{subreddit}/hot.json?limit={max_posts}"
 
-    headers = {"User-Agent": "Mozilla/5.0"}
+    headers = {"User-Agent": "python:web-scraping-project:v1.0 (by /u/codemmaann)"}
 
     try:
         r = requests.get(url, headers=headers, timeout=10)
