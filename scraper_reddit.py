@@ -63,7 +63,6 @@ class RedditScraper:
             )
             
             if response.status_code == 429:
-                print(f"Rate limited. Waiting 60 seconds...")
                 time.sleep(60)
                 return self.scrape_reddit(subreddit, max_posts)
                 
@@ -73,15 +72,12 @@ class RedditScraper:
             self.request_count += 1
             
             if self.request_count >= 100:
-                print("Made 100 requests, taking a longer break...")
                 time.sleep(300)  
                 self.request_count = 0
             
         except requests.exceptions.RequestException as e:
-            print(f"Error fetching data for r/{subreddit}: {e}")
             return None
         except ValueError as e:
-            print(f"Error parsing JSON for r/{subreddit}: {e}")
             return None
         
         posts = []
@@ -103,12 +99,10 @@ class RedditScraper:
                 "over_18": post.get("over_18", False)
             })
         
-        print(f"Successfully scraped {len(posts)} posts from r/{subreddit}")
         return posts
 
 def save_to_csv(posts, filename="raw_data/reddit.csv"):
     if not posts:
-        print("No posts to save")
         return
     
     os.makedirs(os.path.dirname(filename), exist_ok=True)
@@ -118,7 +112,6 @@ def save_to_csv(posts, filename="raw_data/reddit.csv"):
     
     try:
         df.to_csv(filename, mode='a', header=not file_exists, index=False, encoding='utf-8')
-        print(f"Saved {len(posts)} posts to {filename}")
     except Exception as e:
         print(f"Error saving to {filename}: {e}")
 
@@ -129,7 +122,7 @@ def scrape_multiple_subreddits(subreddits, max_posts=15, delay_between_subreddit
     random.shuffle(subreddits)
     
     for i, subreddit in enumerate(subreddits):
-        print(f"Scraping r/{subreddit} ({i+1}/{len(subreddits)})...")
+
         
         posts = scraper.scrape_reddit(subreddit, max_posts)
         
