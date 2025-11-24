@@ -5,10 +5,15 @@ import pandas as pd
 import requests
 
 def scrape_reddit(subreddit, max_posts=20):
+    time.sleep(1.5)  # avoid API rate-limit
+
     url = f"https://api.reddit.com/r/{subreddit}/hot?limit={max_posts}"
 
     headers = {
-        "User-Agent": "python:web-scraping-project:1.0 (by /u/codemmaann)"
+        "User-Agent": "script:web-scraping-project:1.0 (by /u/codemmaann)",
+        "Accept": "application/json",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Connection": "keep-alive"
     }
 
     try:
