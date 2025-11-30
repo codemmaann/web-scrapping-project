@@ -3,17 +3,17 @@ COMPREHENSIVE ANALYSIS REPORT
 ==================================================
 
  KEY INSIGHTS:
-1. **Platform Performance**: reddit has highest average upvotes
-2. **Discussion Leader**: reddit generates most comments
-3. **Optimal Posting Time**: 19:00 hour gets highest engagement
+1. **Platform Performance**: hacker_news has highest average upvotes
+2. **Discussion Leader**: hacker_news generates most comments
+3. **Optimal Posting Time**: 16.0:00 hour gets highest engagement
 4. **Sentiment Analysis**: hacker_news has most positive post titles
-5. **Title Length Impact**: Correlation between title length and engagement: 0.17
+5. **Title Length Impact**: Correlation between title length and engagement: -0.02
 
  SUMMARY STATISTICS:
--Total Posts Analyzed: 546
--Platform Distribution: {'hacker_news': 487, 'reddit': 59}
--Average Upvotes: 539.8
--Average Comments: 63.0
--Maximum Upvotes: 68020
--Maximum Comments: 2093
--Date Range: 2025-11-05 21:53:07 to 2025-11-30 12:52:50
+-Total Posts Analyzed: 51
+-Platform Distribution: {'hacker_news': 26, 'lobsters': 25}
+-Average Upvotes: 109.7
+-Average Comments: 55.8
+-Maximum Upvotes: 742
+-Maximum Comments: 662
+-Date Range: 2025-11-28 04:46:09-06:00 to 2025-11-30 08:22:16-06:00

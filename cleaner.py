@@ -11,24 +11,45 @@ def clean_hn_data():
     hn_df['platform'] = 'hacker_news'
     return hn_df
 
-def clean_reddit_data():
-    reddit_df = pd.read_csv('raw_data/reddit.csv')
-    reddit_prog_df = pd.read_csv('raw_data/reddit_programming.csv')
-    reddit_tech_df = pd.read_csv('raw_data/reddit_technology.csv')
-    
-    all_reddit = pd.concat([reddit_df, reddit_prog_df, reddit_tech_df], ignore_index=True)
-    all_reddit = all_reddit.drop_duplicates(subset=['title', 'link'])
-    all_reddit['post_time'] = pd.to_datetime(all_reddit['post_time'])
-    all_reddit['scraped_at'] = pd.to_datetime(all_reddit['scraped_at'])
-    all_reddit['title'] = all_reddit['title'].str.replace('"', '')
-    all_reddit = all_reddit.dropna(subset=['title', 'link', 'subreddit'])
-    all_reddit['platform'] = 'reddit'
-    
-    return all_reddit
+def clean_lobsters_data():
+    dfs = []
+    for file in ["raw_data/lobsters_hot.csv"]:
+        if os.path.exists(file):
+            dfs.append(pd.read_csv(file))
+
+    if not dfs:
+        print("No Lobsters data found.")
+        return pd.DataFrame()
+
+    lob_df = pd.concat(dfs, ignore_index=True)
+
+    for col in ["post_time", "scraped_at"]:
+        if col in lob_df.columns:
+            lob_df[col] = pd.to_datetime(lob_df[col].astype(str).str.split('.').str[0], errors='coerce')
+
+    if "title" in lob_df.columns:
+        lob_df["title"] = lob_df["title"].astype(str).str.replace('"', "").str.strip()
+
+    if "tags" in lob_df.columns:
+        lob_df["tags"] = lob_df["tags"].apply(
+            lambda x: eval(x) if isinstance(x, str) and x.startswith("[") else x
+        )
+
+    if "lobsters_id" in lob_df.columns:
+        lob_df = lob_df.drop_duplicates(subset=["lobsters_id"])
+    else:
+        lob_df = lob_df.drop_duplicates(subset=["title", "link"])
+
+    lob_df = lob_df.dropna(subset=["title", "link"])
+
+    lob_df["platform"] = "lobsters"
+
+    return lob_df
+
 
 def main():
     hn_clean = clean_hn_data()
-    reddit_clean = clean_reddit_data()
+    lobsters_clean = clean_lobsters_data()
     
 
     folder_path = 'clean_data'
@@ -36,12 +57,12 @@ def main():
         os.makedirs(folder_path)
 
     hn_clean.to_csv('clean_data/hn_cleaned.csv', index=False)
-    reddit_clean.to_csv('clean_data/reddit_cleaned.csv', index=False)
+    lobsters_clean.to_csv('clean_data/lobsters_clean.csv', index=False)
     
     print("Data cleaning complete!")
     print(f"HN: {len(hn_clean)} posts")
-    print(f"Reddit: {len(reddit_clean)} posts")
+    print(f"Reddit: {len(lobsters_clean)} posts")
     
-    return hn_clean, reddit_clean
+    return hn_clean, lobsters_clean
 
-hn_cleaned, reddit_cleaned = main()
+hn_cleaned, lobsters_clean = main()

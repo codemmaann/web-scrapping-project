@@ -8,7 +8,7 @@ def scrape_hn_api():
 
     rows = []
 
-    for story_id in story_ids[:30]:
+    for story_id in story_ids[:26]:
         item_url = f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
         item = requests.get(item_url).json()
 
