@@ -7,13 +7,13 @@ COMPREHENSIVE ANALYSIS REPORT
 2. **Discussion Leader**: hacker_news generates most comments
 3. **Optimal Posting Time**: 16.0:00 hour gets highest engagement
 4. **Sentiment Analysis**: lobsters has most positive post titles
-5. **Title Length Impact**: Correlation between title length and engagement: -0.01
+5. **Title Length Impact**: Correlation between title length and engagement: 0.00
 
  SUMMARY STATISTICS:
--Total Posts Analyzed: 71
--Platform Distribution: {'hacker_news': 39, 'lobsters': 32}
--Average Upvotes: 83.5
--Average Comments: 41.3
+-Total Posts Analyzed: 91
+-Platform Distribution: {'hacker_news': 52, 'lobsters': 39}
+-Average Upvotes: 81.2
+-Average Comments: 38.6
 -Maximum Upvotes: 742
 -Maximum Comments: 662
--Date Range: 2025-11-28 04:46:09-06:00 to 2025-11-30 11:51:57-06:00
+-Date Range: 2025-11-28 04:46:09-06:00 to 2025-11-30 17:51:45-06:00
