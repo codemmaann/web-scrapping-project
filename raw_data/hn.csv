@@ -362,3 +362,29 @@ Zig's new plan for asynchronous programs,301,217,https://lwn.net/SubscriberLink/
 Counter Galois Onion: Improved encryption for Tor circuit traffic,84,27,https://blog.torproject.org/introducing-cgo/,2025-12-03 13:00:52.120222
 Amazon launches Trainium3,181,65,https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/,2025-12-03 13:00:52.218310
 All about automotive lidar,169,65,https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/,2025-12-03 13:00:52.326995
+Steam Deck lead reveals Valve is funding ARM compatibility of Windows games,194,92,https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/,2025-12-03 18:42:49.457353
+Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files,108,21,https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k,2025-12-03 18:42:49.550906
+"1D Conway's Life glider found, 3.7B cells long",100,24,https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136,2025-12-03 18:42:49.663667
+MinIO is now in maintenance-mode,214,129,https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2,2025-12-03 18:42:49.843098
+Launch HN: Phind 3 (YC S22) – Every answer is a mini-app,23,15,https://news.ycombinator.com/item?id=46137548,2025-12-03 18:42:49.956811
+RCE Vulnerability in React and Next.js,130,34,https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp,2025-12-03 18:42:50.049549
+How to Synthesize a House Loop,88,25,https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop,2025-12-03 18:42:50.150508
+Congressional lawmakers 47% pts better at picking stocks,668,402,https://www.nber.org/papers/w34524,2025-12-03 18:42:50.247057
+Rocketable (YC W25) is hiring a founding engineer to automate software companies,1,0,https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform,2025-12-03 18:42:50.339933
+You Can't Fool the Optimizer,181,106,https://xania.org/202512/03-more-adding-integers,2025-12-03 18:42:50.435987
+Prompt Injection via Poetry,12,3,https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/,2025-12-03 18:42:50.531312
+GSWT: Gaussian Splatting Wang Tiles,52,13,https://yunfan.zone/gswt_webpage/,2025-12-03 18:42:50.623053
+A Look at Rust from 2012,120,34,https://purplesyringa.moe/blog/a-look-at-rust-from-2012/,2025-12-03 18:42:50.719309
+Shrinking While Linking,11,2,https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/,2025-12-03 18:42:50.810778
+Are we repeating the telecoms crash with AI datacenters?,93,43,https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/,2025-12-03 18:42:50.905204
+Stop Talking,18,14,https://gurkan.in/2025/12/stop-talking/,2025-12-03 18:42:51.001257
+Show HN: Fresh – A new terminal editor built in Rust,14,9,https://sinelaw.github.io/fresh/,2025-12-03 18:42:51.092297
+"Zig quits GitHub, says Microsoft's AI obsession has ruined the service",800,450,https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/,2025-12-03 18:42:51.194455
+"Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",238,42,https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13,2025-12-03 18:42:51.289644
+Helldivers 2 devs slash install size from 154GB to 23GB,282,204,https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives,2025-12-03 18:42:51.385541
+Super fast aggregations in PostgreSQL 19,194,19,https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/,2025-12-03 18:42:51.480003
+Why are my headphones buzzing whenever I run my game?,74,71,https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html,2025-12-03 18:42:51.576375
+VA staff flag dangerous errors in Oracle-built electronic health record,64,10,https://www.washingtonpost.com/investigations/2025/12/03/veterans-administration-va-hospitals-health/,2025-12-03 18:42:51.672435
+Anthropic acquires Bun,2084,998,https://bun.com/blog/bun-joins-anthropic,2025-12-03 18:42:51.769632
+universal-tbxi-patchset: Mac OS New World ROM patchset to boot System 7.5,28,2,https://github.com/Wack0/universal-tbxi-patchset,2025-12-03 18:42:51.870267
+Anthropic reportedly preparing for $300B IPO,165,127,https://vechron.com/2025/12/anthropic-hires-wilson-sonsini-ipo-2026-openai-race/,2025-12-03 18:42:51.963052
