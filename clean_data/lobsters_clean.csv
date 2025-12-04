@@ -117,3 +117,10 @@ On recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On,
 walrus (High Performance distributed log streaming engine),2,1,https://github.com/nubskr/walrus,https://lobste.rs/s/dvhbwp,rmoff,2025-12-04 04:58:11-06:00,2025-12-04 13:01:11,['distributed'],dvhbwp,hot,lobsters
 The Human Writes Font,3,0,https://humanwritesfont.com/,https://lobste.rs/s/psmwt9,bkhl,2025-12-04 04:32:26-06:00,2025-12-04 13:01:11,['design'],psmwt9,hot,lobsters
 "If it ain’t broke, …",3,0,https://www.dra27.uk/blog/platform/2025/12/01/if-it-aint-broke.html,https://lobste.rs/s/fohqx5,tjammer,2025-12-04 03:19:58-06:00,2025-12-04 13:01:11,"['ml', 'practices', 'windows']",fohqx5,hot,lobsters
+SVG Filters - Clickjacking 2.0,22,0,https://lyra.horse/blog/2025/12/svg-clickjacking/,https://lobste.rs/s/omnyrf,rebane2001,2025-12-04 08:04:13-06:00,2025-12-04 18:43:44,"['security', 'web']",omnyrf,hot,lobsters
+Django 6.0 released,6,1,https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/,https://lobste.rs/s/u0k1h6,jefftriplett,2025-12-04 10:20:11-06:00,2025-12-04 18:43:44,"['python', 'web']",u0k1h6,hot,lobsters
+Is Pixelfed sawing off the branch that the Fediverse is sitting on?,3,2,https://ploum.net/2025-12-04-pixelfed-against-fediverse.html,https://lobste.rs/s/3gv7ga,op,2025-12-04 11:30:01-06:00,2025-12-04 18:43:44,['web'],3gv7ga,hot,lobsters
+tunnl.gg | Expose localhost to the internet,7,2,https://tunnl.gg/,https://lobste.rs/s/ffick3,linkdd,2025-12-04 05:44:00-06:00,2025-12-04 18:43:44,"['devops', 'networking']",ffick3,hot,lobsters
+Hunting a production-only proxy bug in SvelteKit,2,0,https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/,https://lobste.rs/s/wtzco2,drewsberry,2025-12-04 09:58:18-06:00,2025-12-04 18:43:44,['javascript'],wtzco2,hot,lobsters
+APL for Plan9,2,0,https://apl.pmikkelsen.com/,https://lobste.rs/s/qdenps,veqq,2025-12-04 12:27:17-06:00,2025-12-04 18:43:44,['apl'],qdenps,hot,lobsters
+Functional Quadtrees,1,2,https://www.lindelystables.dk/en/posts/functional-quadtree-clojure,https://lobste.rs/s/ud9u0e,soulcutter,2025-12-04 11:07:08-06:00,2025-12-04 18:43:44,['clojure'],ud9u0e,hot,lobsters
