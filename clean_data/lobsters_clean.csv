@@ -155,3 +155,5 @@ Leaving Intel,2,1,https://www.brendangregg.com/blog//2025-12-05/leaving-intel.ht
 Should CSS be Constraints?,2,0,https://pavpanchekha.com/blog/why-css-bad.html,https://lobste.rs/s/qghzug,abhin4v,2025-12-05 22:17:31-06:00,2025-12-06 06:38:11,['css'],qghzug,hot,lobsters
 Reminder about Framework Laptop,6,2,https://community.frame.work/t/framework-supporting-far-right-racists/75986,https://lobste.rs/s/hvjedk,catilac,2025-12-05 18:53:11-06:00,2025-12-06 06:38:11,['culture'],hvjedk,hot,lobsters
 Why We Built Lightpanda in Zig,3,0,https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig,https://lobste.rs/s/kqscsb,krig,2025-12-05 18:10:43-06:00,2025-12-06 06:38:11,['zig'],kqscsb,hot,lobsters
+Flow Control: a programmer's text editor,8,4,https://flow-control.dev,https://lobste.rs/s/8o9mcu,krig,2025-12-06 03:42:13-06:00,2025-12-06 12:53:08,"['editors', 'vim', 'zig']",8o9mcu,hot,lobsters
+Picking Optimal Token IDs,3,0,https://notes.hella.cheap/picking-optimal-token-ids.html,https://lobste.rs/s/mxujt7,bobpoekert,2025-12-05 13:41:33-06:00,2025-12-06 12:53:08,['compsci'],mxujt7,hot,lobsters
