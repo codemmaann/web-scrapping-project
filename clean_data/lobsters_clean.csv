@@ -150,3 +150,8 @@ I want a better build executor,7,0,https://jyn.dev/i-want-a-better-build-executo
 The Path to Mojo 1.0,4,0,https://www.modular.com/blog/the-path-to-mojo-1-0,https://lobste.rs/s/cqruqw,duck_tape,2025-12-05 15:48:52-06:00,2025-12-06 02:02:55,['plt'],cqruqw,hot,lobsters
 ARM's barrel shifter tricks,3,1,https://xania.org/202512/05-barrel-shifting-with-arm,https://lobste.rs/s/tmqhxn,fanf,2025-12-05 17:51:21-06:00,2025-12-06 02:02:55,['assembly'],tmqhxn,hot,lobsters
 When a video codec wins an Emmy,4,1,https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/,https://lobste.rs/s/ssksx7,freddyb,2025-12-05 11:12:29-06:00,2025-12-06 02:02:55,['practices'],ssksx7,hot,lobsters
+What's the Point of Learning Functional Programming?,4,1,https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp,https://lobste.rs/s/dljowr,abhin4v,2025-12-05 21:56:35-06:00,2025-12-06 06:38:11,['haskell'],dljowr,hot,lobsters
+Leaving Intel,2,1,https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html,https://lobste.rs/s/ccin4h,lalitm,2025-12-05 23:25:17-06:00,2025-12-06 06:38:11,"['performance', 'person']",ccin4h,hot,lobsters
+Should CSS be Constraints?,2,0,https://pavpanchekha.com/blog/why-css-bad.html,https://lobste.rs/s/qghzug,abhin4v,2025-12-05 22:17:31-06:00,2025-12-06 06:38:11,['css'],qghzug,hot,lobsters
+Reminder about Framework Laptop,6,2,https://community.frame.work/t/framework-supporting-far-right-racists/75986,https://lobste.rs/s/hvjedk,catilac,2025-12-05 18:53:11-06:00,2025-12-06 06:38:11,['culture'],hvjedk,hot,lobsters
+Why We Built Lightpanda in Zig,3,0,https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig,https://lobste.rs/s/kqscsb,krig,2025-12-05 18:10:43-06:00,2025-12-06 06:38:11,['zig'],kqscsb,hot,lobsters
