@@ -179,3 +179,6 @@ Vanilla CSS is all you need,5,0,https://www.zolkos.com/2025/12/03/vanilla-css-is
 Discovering the indieweb with calm tech,4,0,https://alexsci.com/blog/calm-tech-discover/,https://lobste.rs/s/jkl29r,FedericoSchonborn,2025-12-06 21:23:43-06:00,2025-12-07 06:37:45,"['browsers', 'web']",jkl29r,hot,lobsters
 Package Manager Design Tradeoffs,2,0,https://nesbitt.io/2025/12/05/package-manager-tradeoffs.html,https://lobste.rs/s/gffbjq,robalex,2025-12-06 22:39:04-06:00,2025-12-07 06:37:45,['programming'],gffbjq,hot,lobsters
 The Deep Card Conundrum,1,0,https://frontendmasters.com/blog/the-deep-card-conundrum/,https://lobste.rs/s/xrn56k,isuffix,2025-12-06 23:35:11-06:00,2025-12-07 06:37:45,"['css', 'design']",xrn56k,hot,lobsters
+Structural inheritance doesn't work where you expect it to,4,7,https://trynova.dev/blog/oops-im-dead,https://lobste.rs/s/gou975,rbr,2025-12-07 02:37:38-06:00,2025-12-07 12:51:50,['plt'],gou975,hot,lobsters
+What I learnt about making websites by reading two thousand web pages,6,3,https://alexwlchan.net/2025/learning-how-to-make-websites/,https://lobste.rs/s/ibjifi,aashvik,2025-12-07 01:28:03-06:00,2025-12-07 12:51:50,['web'],ibjifi,hot,lobsters
+The Wild West of Post-POSIX IO Interfaces,2,0,https://youtu.be/abDWZ9D8kEE,https://lobste.rs/s/wsq0v7,taras,2025-12-07 02:26:53-06:00,2025-12-07 12:51:50,"['osdev', 'video']",wsq0v7,hot,lobsters
