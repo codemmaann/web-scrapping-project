@@ -428,3 +428,7 @@ loro-extended: A toolkit for building local-first applications and multi-agent s
 What Does a Database for SSDs Look Like?,2,2,https://brooker.co.za/blog/2025/12/15/database-for-ssd.html,https://lobste.rs/s/wgnk1u,emschwartz,2025-12-17 10:09:19-06:00,2025-12-17 18:44:05,['databases'],wgnk1u,hot,lobsters
 Asahi Linux Progress Report: Linux 6.18,4,0,https://asahilinux.org/2025/12/progress-report-6-18/,https://lobste.rs/s/lzfzzi,calvin,2025-12-17 08:53:27-06:00,2025-12-17 18:44:05,"['linux', 'mac']",lzfzzi,hot,lobsters
 How do graphics drivers work?,2,0,https://timur.hu/blog/2025/how-do-graphics-drivers-work,https://lobste.rs/s/hhoql4,Aks,2025-12-17 11:38:12-06:00,2025-12-17 18:44:05,"['graphics', 'linux']",hhoql4,hot,lobsters
+secure local configuration in kakoune,4,1,https://ficd.sh/blog/kak-secure-local-config/,https://lobste.rs/s/kcfrr2,hadronized,2025-12-17 18:06:33-06:00,2025-12-18 02:09:11,"['editors', 'security']",kcfrr2,hot,lobsters
+Genuary 2026: Prompts Released,3,2,https://genuary.art,https://lobste.rs/s/pvkjwy,jptsh,2025-12-17 15:35:58-06:00,2025-12-18 02:09:11,['art'],pvkjwy,hot,lobsters
+Inlining - the ultimate optimisation,5,2,https://xania.org/202512/17-inlining-the-ultimate-optimisation,https://lobste.rs/s/yhqbqm,emschwartz,2025-12-17 10:45:48-06:00,2025-12-18 02:09:11,['compilers'],yhqbqm,hot,lobsters
+"Introducing the Qt Task Tree Module, Part of Qt 6.11",3,1,https://www.qt.io/blog/qt-task-tree-coming-soon-in-qt-6.11,https://lobste.rs/s/vjdthc,raymii,2025-12-17 14:49:17-06:00,2025-12-18 02:09:11,['c++'],vjdthc,hot,lobsters
