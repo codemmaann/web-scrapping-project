@@ -1144,3 +1144,18 @@ Telegraph chess: A 19th century tech marvel,23,3,https://spectrum.ieee.org/teleg
 "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",40,8,https://github.com/fastserial/lite3,2025-12-19 06:42:52,hacker_news
 Oliver Sacks put himself into his case studies – what was the cost?,38,72,https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost,2025-12-19 06:42:52,hacker_news
 Two kinds of vibe coding,66,56,https://davidbau.com/archives/2025/12/16/vibe_coding.html,2025-12-19 06:42:52,hacker_news
+GotaTun -- Mullvad's WireGuard Implementation in Rust,124,21,https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn,2025-12-19 12:58:32,hacker_news
+Amazon will allow ePub and PDF downloads for DRM-free eBooks,117,42,https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US,2025-12-19 12:58:32,hacker_news
+"Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",28,18,https://github.com/moasq/production-saas-starter,2025-12-19 12:58:32,hacker_news
+"Show HN: Hacker News, but every headline is hysterical clickbait",94,39,https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html,2025-12-19 12:58:32,hacker_news
+Getting bitten by Intel's poor naming schemes,166,86,https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/,2025-12-19 12:58:32,hacker_news
+How to think about durable execution,6,0,https://hatchet.run/blog/durable-execution,2025-12-19 12:58:33,hacker_news
+From Zero to QED: An informal introduction to formality with Lean 4,78,9,https://sdiehl.github.io/zero-to-qed/01_introduction.html,2025-12-19 12:58:33,hacker_news
+Show HN: I implemented generics in my programming language,12,1,https://axe-docs.pages.dev/features/generics/,2025-12-19 12:58:33,hacker_news
+Pingfs: Stores your data in ICMP ping packets,35,6,https://github.com/yarrick/pingfs,2025-12-19 12:58:33,hacker_news
+Prompt caching for cheaper LLM tokens,164,37,https://ngrok.com/blog/prompt-caching/,2025-12-19 12:58:33,hacker_news
+Making Google Sans Flex,70,47,https://design.google/library/google-sans-flex-font,2025-12-19 12:58:34,hacker_news
+Show HN: CommerceTXT – An open standard for AI shopping context (like llms.txt),5,4,https://commercetxt.org/,2025-12-19 12:58:34,hacker_news
+Designing a Passive Lidar Detector Device,16,0,https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor,2025-12-19 12:58:34,hacker_news
+Property-Based Testing Caught a Security Bug I Never Would Have Found,35,10,https://kiro.dev/blog/property-based-testing-fixed-security-bug/,2025-12-19 12:58:34,hacker_news
+SMB Direct – SMB3 over RDMA,35,9,https://docs.kernel.org/filesystems/smb/smbdirect.html,2025-12-19 12:58:34,hacker_news

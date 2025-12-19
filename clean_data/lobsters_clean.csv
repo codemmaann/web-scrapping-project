@@ -458,3 +458,5 @@ My first win building with agents,3,0,https://olano.dev/blog/agents2,https://lob
 Booleans don't exist in Ruby (2022),6,0,https://thoughtbot.com/blog/what-is-a-boolean,https://lobste.rs/s/3ktgvh,rebeca,2025-12-18 20:37:58-06:00,2025-12-19 06:42:47,['ruby'],3ktgvh,hot,lobsters
 Reinventing the dial-up modem (2019),2,0,https://saket.me/dtmf-tones/,https://lobste.rs/s/1k5vwr,abhin4v,2025-12-18 22:50:40-06:00,2025-12-19 06:42:47,['android'],1k5vwr,hot,lobsters
 A testing conundrum,3,0,https://nedbatchelder.com/blog/202512/a_testing_conundrum.html,https://lobste.rs/s/7pmtnp,ubernostrum,2025-12-18 17:48:10-06:00,2025-12-19 06:42:47,"['python', 'testing']",7pmtnp,hot,lobsters
+"Go ahead, self-host Postgres",13,2,https://pierce.dev/notes/go-ahead-self-host-postgres,https://lobste.rs/s/e6zmjh,kowale,2025-12-19 03:51:01-06:00,2025-12-19 12:58:28,"['databases', 'devops']",e6zmjh,hot,lobsters
+When Scope Lies: The Wildcard Pattern Drop Footgun in Rust,1,0,https://obeli.sk/blog/when-scope-lies/,https://lobste.rs/s/phykxt,tomas,2025-12-19 06:30:02-06:00,2025-12-19 12:58:28,['rust'],phykxt,hot,lobsters
