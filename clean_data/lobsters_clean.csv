@@ -455,3 +455,6 @@ Please Just Try HTMX,25,11,https://pleasejusttryhtmx.com/,https://lobste.rs/s/di
 My first win building with agents,3,0,https://olano.dev/blog/agents2,https://lobste.rs/s/8fcvtj,facundoolano,2025-12-18 14:22:58-06:00,2025-12-19 02:12:27,['vibecoding'],8fcvtj,hot,lobsters
 "LionsOS Design, Implementation and Performance",4,0,https://arxiv.org/html/2501.06234v2,https://lobste.rs/s/w05bzq,indolering,2025-12-18 15:23:24-06:00,2025-12-19 02:12:27,"['formalmethods', 'osdev', 'performance']",w05bzq,hot,lobsters
 "Prompt caching: 10x cheaper LLM tokens, but how?",1,0,https://ngrok.com/blog/prompt-caching/,https://lobste.rs/s/aop0pm,carlana,2025-12-18 19:02:15-06:00,2025-12-19 02:12:27,['ai'],aop0pm,hot,lobsters
+Booleans don't exist in Ruby (2022),6,0,https://thoughtbot.com/blog/what-is-a-boolean,https://lobste.rs/s/3ktgvh,rebeca,2025-12-18 20:37:58-06:00,2025-12-19 06:42:47,['ruby'],3ktgvh,hot,lobsters
+Reinventing the dial-up modem (2019),2,0,https://saket.me/dtmf-tones/,https://lobste.rs/s/1k5vwr,abhin4v,2025-12-18 22:50:40-06:00,2025-12-19 06:42:47,['android'],1k5vwr,hot,lobsters
+A testing conundrum,3,0,https://nedbatchelder.com/blog/202512/a_testing_conundrum.html,https://lobste.rs/s/7pmtnp,ubernostrum,2025-12-18 17:48:10-06:00,2025-12-19 06:42:47,"['python', 'testing']",7pmtnp,hot,lobsters
