@@ -2104,3 +2104,29 @@ Vm.overcommit_memory=2 is the right setting for servers,69,109,https://ariadne.s
 The scariest boot loader code,47,4,http://miod.online.fr/software/openbsd/stories/boot_hppa.html,2025-12-20 06:40:33.554896
 Amazon will allow ePub and PDF downloads for DRM-free eBooks,575,286,https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US,2025-12-20 06:40:33.611048
 The pitfalls of partitioning Postgres yourself,65,5,https://hatchet.run/blog/postgres-partitioning,2025-12-20 06:40:33.664996
+NTP at NIST Boulder Has Lost Power,155,61,https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/,2025-12-20 12:53:44.080112
+What Does a Database for SSDs Look Like?,32,22,https://brooker.co.za/blog/2025/12/15/database-for-ssd.html,2025-12-20 12:53:44.192429
+Charles Proxy,188,57,https://www.charlesproxy.com/,2025-12-20 12:53:44.307820
+CSS Grid Lanes,568,160,https://webkit.org/blog/17660/introducing-css-grid-lanes/,2025-12-20 12:53:44.419137
+A terminal emulator that runs in your terminal. Powered by Turbo Vision,62,6,https://github.com/magiblot/tvterm,2025-12-20 12:53:44.532153
+Skills Officially Comes to Codex,56,18,https://developers.openai.com/codex/skills/,2025-12-20 12:53:44.644199
+Mistral OCR 3,570,103,https://mistral.ai/news/mistral-ocr-3,2025-12-20 12:53:44.756773
+"Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)",1,0,https://news.ycombinator.com/item?id=46335552,2025-12-20 12:53:44.874727
+New Quantum Antenna Reveals a Hidden Terahertz World,35,1,https://www.sciencedaily.com/releases/2025/12/251213032617.htm,2025-12-20 12:53:44.989121
+Airbus to migrate critical apps to a sovereign Euro cloud,209,108,https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/,2025-12-20 12:53:45.099456
+Garage – An S3 object store so reliable you can run it outside datacenters,605,131,https://garagehq.deuxfleurs.fr/,2025-12-20 12:53:45.213981
+Contrails Map,52,18,https://map.contrails.org/,2025-12-20 12:53:45.324075
+A proof of concept of a semistable C++ vector container,5,0,https://github.com/joaquintides/semistable_vector,2025-12-20 12:53:45.436365
+Sharp: High performance Node.js image processing/optimization,21,1,https://github.com/lovell/sharp,2025-12-20 12:53:45.552009
+"Privacy doesn't mean anything anymore, anonymity does",127,91,https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/,2025-12-20 12:53:45.668806
+"The Deviancy Signal: Having ""Nothing to Hide"" Is a Threat to Us All",69,41,https://thompson2026.com/blog/deviancy-signal/,2025-12-20 12:53:45.783145
+"TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",300,89,https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/,2025-12-20 12:53:45.893257
+Fuzix on a Raspberry Pi Pico,73,6,https://ewpratten.com/blog/fuzix-pi-pico,2025-12-20 12:53:46.006596
+Hash tables in Go and advantage of self-hosted compilers,15,5,https://rushter.com/blog/go-and-hashmaps/,2025-12-20 12:53:46.119262
+8-bit Boléro,270,41,https://linusakesson.net/music/bolero/index.php,2025-12-20 12:53:46.230748
+Graphite is joining Cursor,242,235,https://cursor.com/blog/graphite,2025-12-20 12:53:46.341049
+LLM Year in Review,249,67,https://karpathy.bearblog.dev/year-in-review-2025/,2025-12-20 12:53:46.452099
+Carolina Cloud – One third the cost of AWS for data science workloads,119,65,https://carolinacloud.io/,2025-12-20 12:53:46.563224
+A better zip bomb (2019),147,53,https://www.bamsoftware.com/hacks/zipbomb/,2025-12-20 12:53:46.678739
+"Brown/MIT shooting suspect found dead, officials say",163,196,https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/,2025-12-20 12:53:46.792741
+Build Your Own React,137,12,https://pomb.us/build-your-own-react/,2025-12-20 12:53:46.906330
