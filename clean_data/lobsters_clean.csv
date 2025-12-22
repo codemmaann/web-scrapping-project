@@ -523,3 +523,4 @@ Debian’s git transition,11,2,https://diziet.dreamwidth.org/20436.html,https://
 I Program on the Subway,14,0,https://www.scd31.com/posts/programming-on-the-subway,https://lobste.rs/s/pbxwjt,probablyrobert,2025-12-21 16:06:10-06:00,2025-12-22 02:24:17,['programming'],pbxwjt,hot,lobsters
 What’s new in Python 3.15,10,2,https://docs.python.org/3.15/whatsnew/3.15.html,https://lobste.rs/s/fvvnl4,parachuteparrot,2025-12-21 12:26:36-06:00,2025-12-22 02:24:17,['python'],fvvnl4,hot,lobsters
 Qubes OS 4.3.0 has been released,6,0,https://www.qubes-os.org/news/2025/12/21/qubes-os-4-3-0-has-been-released/,https://lobste.rs/s/yvzvrg,legoktm,2025-12-21 16:49:30-06:00,2025-12-22 02:24:17,"['linux', 'release', 'security']",yvzvrg,hot,lobsters
+typed-arrow: First-class compile‑time Arrow schemas for Rust,1,0,https://github.com/tonbo-io/typed-arrow,https://lobste.rs/s/dodxvz,yochow,2025-12-21 23:19:40-06:00,2025-12-22 06:47:11,['databases'],dodxvz,hot,lobsters
