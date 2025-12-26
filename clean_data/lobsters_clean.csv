@@ -617,3 +617,9 @@ Ancient Greek geometry,1,0,https://sciencevsmagic.net/geo/,https://lobste.rs/s/b
 Microarchitecture: What Happens Beneath,1,0,https://www.youtube.com/watch?v=BVVNtG5dgks,https://lobste.rs/s/3uzl6a,jasonkoch,2025-12-25 19:05:00-06:00,2025-12-26 02:13:20,"['performance', 'video']",3uzl6a,hot,lobsters
 Writing an NES emulator in Haskell,1,0,https://arthi-chaud.github.io/posts/funes/,https://lobste.rs/s/jkomyi,abhin4v,2025-12-26 00:05:07-06:00,2025-12-26 06:43:48,"['haskell', 'retrocomputing']",jkomyi,hot,lobsters
 Toward a policy for machine-learning tools in kernel development,1,1,https://lwn.net/Articles/1049830/,https://lobste.rs/s/ou2zm7,gnyeki,2025-12-25 22:48:09-06:00,2025-12-26 06:43:48,"['linux', 'vibecoding']",ou2zm7,hot,lobsters
+Rob Pike Goes Nuclear over GenAI,32,9,https://imgur.com/nUJCI3o,https://lobste.rs/s/n4kxdf,signal-11,2025-12-26 05:17:15-06:00,2025-12-26 12:57:44,"['rant', 'vibecoding']",n4kxdf,hot,lobsters
+Maestro - Desktop AI Agent Command Center (Free/OSS),1,0,https://runmaestro.ai,https://lobste.rs/s/a5wvmz,sirbrightool,2025-12-26 06:39:27-06:00,2025-12-26 12:57:44,['vibecoding'],a5wvmz,hot,lobsters
+The Algebra of Loans in Rust,2,0,https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html,https://lobste.rs/s/gwmwx7,runxiyu,2025-12-26 06:46:05-06:00,2025-12-26 12:57:44,['rust'],gwmwx7,hot,lobsters
+Beautiful reprs,1,0,https://pomponchik.org/notes/beautiful-reprs/,https://lobste.rs/s/ljbktf,pomponchik,2025-12-26 04:30:00-06:00,2025-12-26 12:57:44,['python'],ljbktf,hot,lobsters
+Sendspin: Music Experience Protocol,3,0,https://www.sendspin-audio.com/,https://lobste.rs/s/jd62vn,kmaasrud,2025-12-26 02:21:09-06:00,2025-12-26 12:57:44,['networking'],jd62vn,hot,lobsters
+GNU Mes and the module system,1,0,https://ekaitz.elenq.tech/fasterMes5.html,https://lobste.rs/s/byjzpj,FedericoSchonborn,2025-12-26 06:27:02-06:00,2025-12-26 12:57:44,"['lisp', 'performance']",byjzpj,hot,lobsters
