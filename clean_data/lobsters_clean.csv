@@ -639,3 +639,5 @@ Enabling C threads in a Python / Wasm environment,4,0,https://yosefk.com/blog/en
 From Intent to Proof: Dafny Verification for Web Apps,5,0,https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/,https://lobste.rs/s/uoz0h9,nextos,2025-12-26 13:41:18-06:00,2025-12-27 02:10:29,['formalmethods'],uoz0h9,hot,lobsters
 rapace - RPC over SHM / WS / TCP / MEM,1,0,https://rapace.bearcove.eu/,https://lobste.rs/s/aunzwd,Jrmurr,2025-12-26 19:59:56-06:00,2025-12-27 02:10:29,['rust'],aunzwd,hot,lobsters
 Reimplementing FlashAttention for performance and giggles,2,0,https://aminediro.com/posts/flash_attn/,https://lobste.rs/s/zdbmwm,jado,2025-12-26 14:39:47-06:00,2025-12-27 02:10:29,"['ai', 'performance']",zdbmwm,hot,lobsters
+pre-commit hooks are fundamentally broken,6,6,https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/,https://lobste.rs/s/pjysyq,calvin,2025-12-26 21:44:30-06:00,2025-12-27 06:41:33,['vcs'],pjysyq,hot,lobsters
+The Rime of the Ancient Maintainer,6,0,https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/,https://lobste.rs/s/ykxhnw,ollien,2025-12-26 16:33:20-06:00,2025-12-27 06:41:33,['culture'],ykxhnw,hot,lobsters
