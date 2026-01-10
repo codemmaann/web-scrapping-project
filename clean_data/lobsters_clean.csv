@@ -961,3 +961,5 @@ How we made Python's packaging library 3x faster,15,0,https://iscinumpy.dev/post
 Handling secrets (somewhat) securely in shells,8,9,https://linus.schreibt.jetzt/posts/shell-secrets.html,https://lobste.rs/s/hmlt2f,polywolf,2026-01-09 09:16:22-06:00,2026-01-10 02:15:32,['unix'],hmlt2f,hot,lobsters
 How Markdown took over the world,3,1,https://anildash.com/2026/01/09/how-markdown-took-over-the-world/,https://lobste.rs/s/6phxzm,fanf,2026-01-09 18:08:24-06:00,2026-01-10 02:15:32,['historical'],6phxzm,hot,lobsters
 Garbage collected handles are lifetime-contravariant,2,0,https://trynova.dev/blog/garbage-collection-is-contrarian,https://lobste.rs/s/jydyuw,aapoalas,2026-01-09 15:15:10-06:00,2026-01-10 02:15:32,['rust'],jydyuw,hot,lobsters
+Introducing EktuPy,4,1,https://kushaldas.in/posts/introducing-ektupy.html,https://lobste.rs/s/mdggwb,pauloxnet,2026-01-09 17:36:57-06:00,2026-01-10 06:41:14,"['education', 'games', 'python']",mdggwb,hot,lobsters
+Phosh 2025 in Retrospect,2,0,https://phosh.mobi/posts/phosh-2025-in-retrospect/,https://lobste.rs/s/hf8g8k,ThinkChaos,2026-01-09 21:08:04-06:00,2026-01-10 06:41:14,"['linux', 'mobile']",hf8g8k,hot,lobsters
