@@ -981,3 +981,4 @@ Writing mutexes from scratch in Go,5,1,https://rybicki.io/blog/2026/01/01/mutexe
 Code And Let Live,2,2,https://fly.io/blog/code-and-let-live/,https://lobste.rs/s/xjiqml,teymour,2026-01-10 18:38:54-06:00,2026-01-11 02:33:27,['devops'],xjiqml,hot,lobsters
 V16 beacon full uplink conversation,4,0,https://destevez.net/2026/01/v16-beacon-full-uplink-conversation/,https://lobste.rs/s/fr9s2n,freddyb,2026-01-10 13:16:07-06:00,2026-01-11 02:33:27,"['networking', 'reversing']",fr9s2n,hot,lobsters
 annote: Writing java using only annotations,13,4,https://github.com/kusoroadeolu/annote,https://lobste.rs/s/4qb3gs,asb,2026-01-10 08:43:35-06:00,2026-01-11 02:33:27,['satire'],4qb3gs,hot,lobsters
+16 Best Practices for Reducing Dependabot Noise,3,2,https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html,https://lobste.rs/s/k9dwgt,twm,2026-01-10 20:33:18-06:00,2026-01-11 06:43:08,"['practices', 'satire', 'security']",k9dwgt,hot,lobsters
