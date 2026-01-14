@@ -1052,3 +1052,8 @@ TruffleRuby 33 is Released,13,1,https://truffleruby.dev/blog/truffleruby-33-is-r
 Bevy 0.18,14,0,https://bevy.org/news/bevy-0-18/,https://lobste.rs/s/k5yvju,jado,2026-01-13 15:46:21-06:00,2026-01-14 02:27:36,"['games', 'release', 'rust']",k5yvju,hot,lobsters
 Small Kafka: Tansu + SQLite on a free t3.micro (AWS Free Tier),3,0,https://blog.tansu.io/articles/broker-aws-free-tier,https://lobste.rs/s/gv8v8s,topicpartition,2026-01-13 15:53:41-06:00,2026-01-14 02:27:36,"['distributed', 'rust']",gv8v8s,hot,lobsters
 "The Cathedral, the Megachurch, and the Bazaar",9,0,https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/,https://lobste.rs/s/sfhgtx,Foxboron,2026-01-13 10:23:31-06:00,2026-01-14 02:27:36,['culture'],sfhgtx,hot,lobsters
+How a 40-Line Fix Eliminated a 400x Performance Gap,10,0,https://questdb.com/blog/jvm-current-thread-user-time/,https://lobste.rs/s/cgzwem,lalitm,2026-01-13 20:42:41-06:00,2026-01-14 06:49:24,['performance'],cgzwem,hot,lobsters
+Build your own programming language (2020),7,0,https://thesephist.com/posts/pl/,https://lobste.rs/s/ummoom,op,2026-01-13 21:47:56-06:00,2026-01-14 06:49:24,['plt'],ummoom,hot,lobsters
+Rust at Volvo Cars,6,0,https://www.youtube.com/watch?v=vBofCW8j70A,https://lobste.rs/s/pfj3mi,jmillikin,2026-01-13 20:44:21-06:00,2026-01-14 06:49:24,"['rust', 'video']",pfj3mi,hot,lobsters
+Why We Don't Use AI,5,1,https://yarnspinner.dev/blog/why-we-dont-use-ai/,https://lobste.rs/s/jsw3wk,chris-evelyn,2026-01-14 00:10:18-06:00,2026-01-14 06:49:24,"['ai', 'culture']",jsw3wk,hot,lobsters
+Stop using natural language interfaces,2,0,https://tidepool.leaflet.pub/3mcbegnuf2k2i,https://lobste.rs/s/7eokzy,steveklabnik,2026-01-13 20:28:57-06:00,2026-01-14 06:49:24,['vibecoding'],7eokzy,hot,lobsters
