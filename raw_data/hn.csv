@@ -5692,3 +5692,29 @@ The SIM-to-real problem isn't about simulators – it's about behavior robustnes
 Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG,66,20,https://markgascoyne.co.uk/posts/ebpf-bng/,2026-01-24 02:19:41.441115
 "Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",208,73,https://github.com/ramonvermeulen/whosthere,2026-01-24 02:19:41.543310
 Waypoint-1: Real-Time Interactive Video Diffusion from Overworld,60,16,https://huggingface.co/blog/waypoint-1,2026-01-24 02:19:41.649623
+Internet Archive's Storage,61,9,https://blog.dshr.org/2026/01/internet-archives-storage.html,2026-01-24 06:42:49.173848
+Unrolling the Codex agent loop,279,138,https://openai.com/index/unrolling-the-codex-agent-loop/,2026-01-24 06:42:49.278714
+Proof of Corn,344,253,https://proofofcorn.com/,2026-01-24 06:42:49.384168
+Some C habits I employ for the modern day,120,38,https://www.unix.dog/~yosh/blog/c-habits-for-me.html,2026-01-24 06:42:49.492747
+Comma openpilot – Open source driver-assistance,225,122,https://comma.ai,2026-01-24 06:42:49.597774
+New YC homepage,225,110,https://www.ycombinator.com/,2026-01-24 06:42:49.701285
+"Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",299,313,https://maggieappleton.com/gastown,2026-01-24 06:42:49.816402
+Banned C++ features in Chromium,137,110,https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md,2026-01-24 06:42:49.924014
+Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops,760,498,https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/,2026-01-24 06:42:50.032165
+Extracting verified C++ from the Rocq theorem prover at Bloomberg,15,1,https://bloomberg.github.io/crane/,2026-01-24 06:42:50.138104
+Losing 1½ Million Lines of Go,70,6,https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties,2026-01-24 06:42:50.244212
+Ask HN: What's the current best local/open speech-to-speech setup?,117,23,https://news.ycombinator.com/item?id=46731068,2026-01-24 06:42:50.347810
+"Route leak incident on January 22, 2026",137,37,https://blog.cloudflare.com/route-leak-incident-january-22-2026/,2026-01-24 06:42:50.467429
+Mental Models (2018),72,11,https://fs.blog/mental-models/,2026-01-24 06:42:50.575601
+Booting from a vinyl record (2020),297,108,https://boginjr.com/it/sw/dev/vinyl-boot/,2026-01-24 06:42:50.680103
+Noora Health (YC W14) Is Hiring AI/ML Engineer,1,0,https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer,2026-01-24 06:42:50.792491
+Air traffic control: the IBM 9020,19,1,https://computer.rip/2026-01-17-air-traffic-control-9020.html,2026-01-24 06:42:50.901218
+KORG phase8 – Acoustic Synthesizer,218,96,https://www.korg.com/us/products/dj/phase8/,2026-01-24 06:42:51.003767
+SEC obtains final consent judgments against former FTX and Alameda executives,85,57,https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450,2026-01-24 06:42:51.110461
+The tech monoculture is finally breaking,165,213,http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/,2026-01-24 06:42:51.215739
+Proton Spam and the AI Consent Problem,494,351,https://dbushell.com/2026/01/22/proton-spam/,2026-01-24 06:42:51.322710
+Wilson Lin on FastRender: a browser built by parallel agents,39,9,https://simonwillison.net/2026/Jan/23/fastrender/,2026-01-24 06:42:51.429241
+"Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",225,81,https://github.com/ramonvermeulen/whosthere,2026-01-24 06:42:51.533388
+"Gold fever, cold, and the true adventures of Jack London in the wild",51,15,https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/,2026-01-24 06:42:51.639397
+Nobody likes lag: How to make low-latency dev sandboxes,73,36,https://www.compyle.ai/blog/nobody-likes-lag/,2026-01-24 06:42:51.751701
+Floating-Point Printing and Parsing Can Be Simple and Fast,105,11,https://research.swtch.com/fp,2026-01-24 06:42:51.857963
