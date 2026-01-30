@@ -1429,3 +1429,7 @@ Colorblind-Friendly Design Guide for Developing Apps,7,1,https://github.com/Terr
 Litestream Writable VFS,5,0,https://fly.io/blog/litestream-writable-vfs/,https://lobste.rs/s/lrlmqz,winter,2026-01-29 18:06:53-06:00,2026-01-30 02:44:16,['databases'],lrlmqz,hot,lobsters
 "No, Cloudflare's Matrix server isn't an earnest project",1,1,https://nexy.blog/2026/01/28/cf-matrix-workers/,https://lobste.rs/s/izh4dt,Aks,2026-01-29 19:43:25-06:00,2026-01-30 02:44:16,['distributed'],izh4dt,hot,lobsters
 Sentry releases new CLI for developers and agents,2,4,https://cli.sentry.dev/,https://lobste.rs/s/klojnf,byk,2026-01-29 13:36:38-06:00,2026-01-30 02:44:16,['vibecoding'],klojnf,hot,lobsters
+The Dank Case For Scrolling Window Managers,3,1,https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/,https://lobste.rs/s/pou5h2,calvin,2026-01-29 21:57:31-06:00,2026-01-30 07:02:09,['linux'],pou5h2,hot,lobsters
+Google Disrupts Large Residential Proxy Network,2,1,https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network,https://lobste.rs/s/js7tql,krinkle,2026-01-29 22:24:57-06:00,2026-01-30 07:02:09,"['networking', 'security', 'web']",js7tql,hot,lobsters
+Backseat Software,2,0,https://blog.mikeswanson.com/backseat-software/,https://lobste.rs/s/0r26qz,chai,2026-01-30 00:10:18-06:00,2026-01-30 07:02:09,['design'],0r26qz,hot,lobsters
+ClojureWasmBeta,1,0,https://github.com/chaploud/ClojureWasmBeta,https://lobste.rs/s/2skyzm,veqq,2026-01-30 00:48:08-06:00,2026-01-30 07:02:09,"['clojure', 'wasm']",2skyzm,hot,lobsters
