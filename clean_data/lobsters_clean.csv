@@ -1433,3 +1433,7 @@ The Dank Case For Scrolling Window Managers,3,1,https://tedium.co/2026/01/29/nir
 Google Disrupts Large Residential Proxy Network,2,1,https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network,https://lobste.rs/s/js7tql,krinkle,2026-01-29 22:24:57-06:00,2026-01-30 07:02:09,"['networking', 'security', 'web']",js7tql,hot,lobsters
 Backseat Software,2,0,https://blog.mikeswanson.com/backseat-software/,https://lobste.rs/s/0r26qz,chai,2026-01-30 00:10:18-06:00,2026-01-30 07:02:09,['design'],0r26qz,hot,lobsters
 ClojureWasmBeta,1,0,https://github.com/chaploud/ClojureWasmBeta,https://lobste.rs/s/2skyzm,veqq,2026-01-30 00:48:08-06:00,2026-01-30 07:02:09,"['clojure', 'wasm']",2skyzm,hot,lobsters
+Email experiments: filtering out external images,6,2,https://www.terracrypt.net/posts/email-experiments-image-filtering.html,https://lobste.rs/s/862tn2,jfred,2026-01-30 05:58:07-06:00,2026-01-30 13:14:41,['email'],862tn2,hot,lobsters
+How AI Impacts Skill Formation,5,1,https://arxiv.org/abs/2601.20245,https://lobste.rs/s/k6fjcb,typesanitizer,2026-01-30 04:00:54-06:00,2026-01-30 13:14:41,['vibecoding'],k6fjcb,hot,lobsters
+Coding Is When We’re Least Productive,3,0,https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/,https://lobste.rs/s/s9ey3g,edsu,2026-01-30 06:02:49-06:00,2026-01-30 13:14:41,['programming'],s9ey3g,hot,lobsters
+GNU Units,3,2,https://www.gnu.org/software/units/,https://lobste.rs/s/vtpnw6,op,2026-01-30 00:19:20-06:00,2026-01-30 13:14:41,"['c', 'math']",vtpnw6,hot,lobsters
