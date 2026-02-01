@@ -1473,3 +1473,6 @@ Andreessen’s Folly - The False Dichotomy of Software and Hardware,8,0,https://
 Libreboot 26.01 “Magnanimous Max” released,6,0,https://libreboot.org/news/libreboot2601.html,https://lobste.rs/s/px16o4,pkubaj,2026-01-31 13:32:01-06:00,2026-02-01 03:22:04,['hardware'],px16o4,hot,lobsters
 This year in LLVM (2025),4,0,https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html,https://lobste.rs/s/fiuesm,asb,2026-01-31 15:42:30-06:00,2026-02-01 03:22:04,['compilers'],fiuesm,hot,lobsters
 A 9M-parameter Mandarin pronunciation tutor,3,1,https://simedw.com/2026/01/31/ear-pronunication-via-ctc/,https://lobste.rs/s/4vowap,creature,2026-01-31 13:54:09-06:00,2026-02-01 03:22:04,['ai'],4vowap,hot,lobsters
+git-cola: The highly caffeinated Git GUI,4,0,https://github.com/git-cola/git-cola,https://lobste.rs/s/zr3igq,heavyrain266,2026-01-31 22:00:22-06:00,2026-02-01 07:01:01,['vcs'],zr3igq,hot,lobsters
+How Apple Hooks Fifty Thousand Methods,2,1,https://www.youtube.com/watch?v=SuQGQ1vh9k0,https://lobste.rs/s/g9mizf,radbuglet,2026-01-31 21:30:40-06:00,2026-02-01 07:01:01,"['mac', 'reversing', 'video']",g9mizf,hot,lobsters
+Solving Package Management via Hypergraph Dependency Resolution,1,0,https://arxiv.org/pdf/2506.10803,https://lobste.rs/s/rc9mvx,typesanitizer,2026-02-01 00:20:02-06:00,2026-02-01 07:01:01,"['pdf', 'programming']",rc9mvx,hot,lobsters
