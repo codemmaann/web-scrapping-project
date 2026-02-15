@@ -1822,3 +1822,5 @@ gitdatamodel documentation,10,2,https://git-scm.com/docs/gitdatamodel,https://lo
 Hacking a pharmacy to get free prescription drugs and more,7,1,https://eaton-works.com/2026/02/13/dava-india-hack/,https://lobste.rs/s/x4vtpq,mtlynch,2026-02-14 15:14:32-06:00,2026-02-15 03:14:39,['security'],x4vtpq,hot,lobsters
 Borrowed tuple indexing for HashMap,6,0,https://traxys.me/tuple_borrow.html,https://lobste.rs/s/tmdwac,itamarst,2026-02-14 13:32:17-06:00,2026-02-15 03:14:39,['rust'],tmdwac,hot,lobsters
 RFC 9110: HTTP Semantics,2,0,https://datatracker.ietf.org/doc/html/rfc9110,https://lobste.rs/s/yzvbbt,lthms,2026-02-14 16:21:17-06:00,2026-02-15 03:14:39,['networking'],yzvbbt,hot,lobsters
+Understanding std::shared_mutex from C++17,1,0,https://www.cppstories.com/2026/shared_mutex/,https://lobste.rs/s/xdrdrm,raymii,2026-02-14 23:39:56-06:00,2026-02-15 07:01:02,['c++'],xdrdrm,hot,lobsters
+The Story of Wall Street Raider,7,1,https://www.wallstreetraider.com/story.html,https://lobste.rs/s/l4p4oc,hoistbypetard,2026-02-14 07:35:47-06:00,2026-02-15 07:01:02,"['games', 'historical']",l4p4oc,hot,lobsters
