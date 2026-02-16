@@ -1848,3 +1848,4 @@ The only developer productivity metrics that matter,2,1,https://genehack.blog/20
 FOSDEM 2026 - Matrix State of the Union,2,0,https://fosdem.org/2026/schedule/event/URX89L-matrix-state-of-the-union/,https://lobste.rs/s/frlrci,rtpg,2026-02-15 19:37:32-06:00,2026-02-16 02:54:03,"['distributed', 'video']",frlrci,hot,lobsters
 Runtime validation in type annotations,1,0,https://blog.natfu.be/validation-in-type-annotations/,https://lobste.rs/s/jdwug1,natfu,2026-02-15 17:57:53-06:00,2026-02-16 02:54:03,['python'],jdwug1,hot,lobsters
 How I manage my Guix System configs,2,0,https://www.terracrypt.net/posts/guix-config.html,https://lobste.rs/s/ytqpkb,FedericoSchonborn,2026-02-15 19:20:28-06:00,2026-02-16 02:54:03,['nix'],ytqpkb,hot,lobsters
+More work on TBDFS; database-like file system for Plan9,3,0,https://www.youtube.com/watch?v=N19XR8VgzdQ,https://lobste.rs/s/limdiq,veqq,2026-02-15 17:56:56-06:00,2026-02-16 07:16:24,"['osdev', 'video']",limdiq,hot,lobsters
