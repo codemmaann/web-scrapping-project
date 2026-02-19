@@ -1923,3 +1923,9 @@ Top 20 worldwide with social-engineering and a cheat that's still undetected,3,1
 CEL by Example,3,0,https://celbyexample.com,https://lobste.rs/s/3h5gd4,stefanvanburen,2026-02-18 18:47:39-06:00,2026-02-19 02:52:45,['programming'],3h5gd4,hot,lobsters
 C++26: std::is_within_lifetime,5,0,https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime,https://lobste.rs/s/j73dzq,raymii,2026-02-18 21:59:29-06:00,2026-02-19 07:11:28,['c++'],j73dzq,hot,lobsters
 Monitoring Data-Dependent Temporal Patterns,1,0,https://imiron.io/post/fotl/,https://lobste.rs/s/fe3ecz,agnishom,2026-02-18 22:16:08-06:00,2026-02-19 07:11:28,['formalmethods'],fe3ecz,hot,lobsters
+Paged Out! #8,13,0,https://pagedout.institute/download/PagedOut_008.pdf,https://lobste.rs/s/bzqteq,Toric,2026-02-19 06:16:07-06:00,2026-02-19 13:26:30,"['pdf', 'security']",bzqteq,hot,lobsters
+Tuple Spaces,5,1,https://www.mcs.anl.gov/~itf/dbpp/text/node44.html#SECTION02550000000000000000,https://lobste.rs/s/6b26dm,sebastien,2026-02-19 02:44:35-06:00,2026-02-19 13:26:30,"['compsci', 'databases', 'distributed', 'logiclangs']",6b26dm,hot,lobsters
+Fairstream,1,0,https://blog.gluegadget.com/post/fairstream/,https://lobste.rs/s/uj94kj,amir,2026-02-19 06:47:17-06:00,2026-02-19 13:26:30,['scala'],uj94kj,hot,lobsters
+pg-here: Run a local PostgreSQL instance in your project folder with one command,3,0,https://github.com/mayfer/pg-here,https://lobste.rs/s/eos5kb,hongminhee,2026-02-19 04:57:56-06:00,2026-02-19 13:26:30,['databases'],eos5kb,hot,lobsters
+State of Clojure 2025 Results,3,0,https://clojure.org/news/2026/02/18/state-of-clojure-2025,https://lobste.rs/s/h75wx0,adityaathalye,2026-02-19 03:59:09-06:00,2026-02-19 13:26:30,"['clojure', 'practices']",h75wx0,hot,lobsters
+Lilush: A static LuaJIT runtime with batteries,2,0,https://lilush.link/,https://lobste.rs/s/uejqpb,fs111,2026-02-19 06:43:22-06:00,2026-02-19 13:26:30,['lua'],uejqpb,hot,lobsters
