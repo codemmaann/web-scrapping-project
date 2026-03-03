@@ -2214,3 +2214,5 @@ getopt: Go package for POSIX/GNU-style command line parsing,5,2,https://pkg.go.d
 Evolving Typst,3,1,https://laurmaedje.github.io/posts/evolving-typst/,https://lobste.rs/s/og7ihk,runxiyu,2026-03-02 19:38:24-06:00,2026-03-03 02:51:11,['practices'],og7ihk,hot,lobsters
 Plasma Bigscreen - 10-foot interface for KDE plasma,4,1,https://plasma-bigscreen.org/,https://lobste.rs/s/5fambh,achill,2026-03-02 14:35:20-06:00,2026-03-03 02:51:11,['linux'],5fambh,hot,lobsters
 State of Haskell 2025 results,5,0,https://discourse.haskell.org/t/state-of-haskell-2025-results/13755,https://lobste.rs/s/kblbsx,ettolrach,2026-03-02 14:29:39-06:00,2026-03-03 02:51:11,['haskell'],kblbsx,hot,lobsters
+PEP 827 – Type Manipulation,5,0,https://peps.python.org/pep-0827/,https://lobste.rs/s/bkfg6b,a5rocks,2026-03-02 19:15:18-06:00,2026-03-03 07:03:49,"['plt', 'python']",bkfg6b,hot,lobsters
+I Put a Full JVM Inside a Browser Tab,3,0,https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser,https://lobste.rs/s/0pyshw,juliethefoxcoon,2026-03-02 22:49:32-06:00,2026-03-03 07:03:49,"['java', 'wasm', 'web']",0pyshw,hot,lobsters
