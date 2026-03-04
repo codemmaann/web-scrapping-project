@@ -2239,3 +2239,6 @@ yj_nearbyglasses: attempting to detect smart glasses nearby and warn you,12,0,ht
 An Interactive Intro to CRDTs,10,1,https://jakelazaroff.com/words/an-interactive-intro-to-crdts/,https://lobste.rs/s/oe6l1z,linkdd,2026-03-03 15:53:54-06:00,2026-03-04 02:44:06,"['distributed', 'programming']",oe6l1z,hot,lobsters
 Anthropic is untrustworthy,7,1,https://anthropic.ml/,https://lobste.rs/s/5cuaiv,lr0,2026-03-03 14:34:58-06:00,2026-03-04 02:44:06,['ai'],5cuaiv,hot,lobsters
 The Markless Document Markup Standard,4,2,https://shirakumo.org/docs/markless/,https://lobste.rs/s/hu6tos,FedericoSchonborn,2026-03-03 17:29:32-06:00,2026-03-04 02:44:06,['programming'],hu6tos,hot,lobsters
+"California's Digital Age Assurance Act, and FOSS",5,2,https://runxiyu.org/comp/ab1043/,https://lobste.rs/s/hz6vhv,runxiyu,2026-03-03 21:32:02-06:00,2026-03-04 07:01:05,"['law', 'privacy']",hz6vhv,hot,lobsters
+Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit,3,0,https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit,https://lobste.rs/s/ftnuxf,vaguelytagged,2026-03-03 22:19:56-06:00,2026-03-04 07:01:05,"['ios', 'security']",ftnuxf,hot,lobsters
+Never snooze a future,3,0,https://jacko.io/snooze.html,https://lobste.rs/s/isuqoa,thunderseethe,2026-03-03 21:49:04-06:00,2026-03-04 07:01:05,['rust'],isuqoa,hot,lobsters
