@@ -2315,3 +2315,7 @@ Announcing TypeScript 6.0 RC,8,0,https://devblogs.microsoft.com/typescript/annou
 fosdemflix,4,0,https://fosdemflix.netlify.app/,https://lobste.rs/s/zocl5m,notagoodidea,2026-03-06 18:22:34-06:00,2026-03-07 02:37:51,"['event', 'video']",zocl5m,hot,lobsters
 Ply: Build cross-platform apps in Rust,3,1,https://plyx.iz.rs/blog/introducing-ply/,https://lobste.rs/s/lsk3gq,robey,2026-03-06 21:52:56-06:00,2026-03-07 06:54:19,"['graphics', 'rust']",lsk3gq,hot,lobsters
 NetBird - Open Source Zero Trust Networking,2,1,https://netbird.io/,https://lobste.rs/s/oual8j,doriancodes,2026-03-06 19:12:37-06:00,2026-03-07 06:54:19,"['networking', 'security']",oual8j,hot,lobsters
+Lenovo’s New T-Series ThinkPads Score 10/10 for Repairability,20,1,https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability,https://lobste.rs/s/azkace,Signez,2026-03-07 03:39:13-06:00,2026-03-07 13:04:48,['hardware'],azkace,hot,lobsters
+The Internals of PostgreSQL,7,1,https://www.interdb.jp/pg/,https://lobste.rs/s/upwrm3,BinaryIgor,2026-03-07 02:47:27-06:00,2026-03-07 13:04:48,['databases'],upwrm3,hot,lobsters
+"The first AI agent worm is months away, if that",7,0,https://dustycloud.org/blog/the-first-ai-agent-worm-is-months-away-if-that/,https://lobste.rs/s/osvwbe,carlana,2026-03-06 23:34:58-06:00,2026-03-07 13:04:48,"['security', 'vibecoding']",osvwbe,hot,lobsters
+Editing changes in patch format with Jujutsu,3,1,https://www.knifepoint.net/~kat/kb-jj-patchedit.html,https://lobste.rs/s/r6hdqf,winter,2026-03-07 02:13:46-06:00,2026-03-07 13:04:48,['vcs'],r6hdqf,hot,lobsters
