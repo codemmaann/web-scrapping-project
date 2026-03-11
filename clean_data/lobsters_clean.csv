@@ -2415,3 +2415,6 @@ Debian decides not to decide on AI-generated contributions,7,0,https://lwn.net/S
 Unions merged into dotnet 11 preview 3,5,1,https://github.com/dotnet/csharplang/blob/main/proposals/unions.md,https://lobste.rs/s/imwkxe,martinald,2026-03-10 16:41:15-05:00,2026-03-11 02:42:43,['dotnet'],imwkxe,hot,lobsters
 Embrace the uncertainty,2,3,https://brittanyellich.com/embrace-the-uncertainty,https://lobste.rs/s/1ygngg,codekobold,2026-03-10 17:58:43-05:00,2026-03-11 02:42:43,"['practices', 'vibecoding']",1ygngg,hot,lobsters
 What's My JND?,9,1,https://www.keithcirkel.co.uk/whats-my-jnd,https://lobste.rs/s/g6gfvg,outervale,2026-03-10 08:04:43-05:00,2026-03-11 02:42:43,['design'],g6gfvg,hot,lobsters
+"Type resolution redesign, with language changes to taste",10,1,https://ziglang.org/devlog/2026/#2026-03-10,https://lobste.rs/s/ev2hsx,rcalixte,2026-03-10 21:13:47-05:00,2026-03-11 07:05:34,['zig'],ev2hsx,hot,lobsters
+U+237C is Azimuth,5,1,https://ionathan.ch/2026/02/16/angzarr.html,https://lobste.rs/s/e8lebp,chai,2026-03-10 22:07:37-05:00,2026-03-11 07:05:34,['historical'],e8lebp,hot,lobsters
+Cellpond: Spatial programming without escape,6,0,https://www.youtube.com/watch?v=eQgxFuw8f1U,https://lobste.rs/s/c3dfjr,james,2026-03-10 18:07:47-05:00,2026-03-11 07:05:34,"['compsci', 'graphics', 'video', 'visualization']",c3dfjr,hot,lobsters
