@@ -6765,3 +6765,16 @@ FCC updates covered list to include foreign-made consumer routers,293,191,https:
 Microservices and the First Law of Distributed Objects (2014),5,1,https://martinfowler.com/articles/distributed-objects-microservices.html,2026-03-24 07:15:28,hacker_news
 Sunsetting the Techempower Framework Benchmarks,31,5,https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932,2026-03-24 07:15:28,hacker_news
 The Resolv hack: How one compromised key printed $23M,81,107,https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/,2026-03-24 07:15:28,hacker_news
+LiteLLM Python package compromised by supply-chain attack,105,38,https://github.com/BerriAI/litellm/issues/24512,2026-03-24 13:42:57,hacker_news
+Missile Defense Is NP-Complete,48,18,https://smu160.github.io/posts/missile-defense-is-np-complete/,2026-03-24 13:42:57,hacker_news
+Microsoft's Fix for Windows 11: Flowers After the Beating,459,325,https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/,2026-03-24 13:42:57,hacker_news
+Debunking Zswap and Zram Myths,56,8,https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html,2026-03-24 13:42:57,hacker_news
+Opera: Rewind The Web to 1996 (Opera at 30),119,63,https://www.web-rewind.com,2026-03-24 13:42:57,hacker_news
+curl > /dev/sda: How I made a Linux distro that runs wget | dd,48,23,https://astrid.tech/2026/03/24/0/curl-to-dev-sda/,2026-03-24 13:42:57,hacker_news
+"Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",157,65,https://burntsushi.net/ripgrep/,2026-03-24 13:42:57,hacker_news
+Overcoming the Friendship Recession,33,20,https://joeprevite.com/friendship-recession/,2026-03-24 13:42:57,hacker_news
+NanoClaw Adopts OneCLI Agent Vault,36,2,https://nanoclaw.dev/blog/nanoclaw-agent-vault/,2026-03-24 13:42:58,hacker_news
+MSA: Memory Sparse Attention,43,3,https://github.com/EverMind-AI/MSA,2026-03-24 13:42:58,hacker_news
+"No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",69,60,https://qitejs.qount25.dev,2026-03-24 13:42:58,hacker_news
+Secure Domain Name System (DNS) Deployment 2026 Guide [pdf],5,0,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf,2026-03-24 13:42:58,hacker_news
+A 6502 disassembler with a TUI: A modern take on Regenerator,62,7,https://github.com/ricardoquesada/regenerator2000,2026-03-24 13:42:58,hacker_news
