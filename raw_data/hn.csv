@@ -11854,3 +11854,29 @@ Microservices and the First Law of Distributed Objects (2014),32,20,https://mart
 The Resolv hack: How one compromised key printed $23M,101,141,https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/,2026-03-24 13:42:59.393222
 Pompeii's battle scars linked to an ancient 'machine gun',92,27,https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html,2026-03-24 13:42:59.499622
 Finding all regex matches has always been O(n²),238,63,https://iev.ee/blog/the-quadratic-problem-nobody-fixed/,2026-03-24 13:42:59.605373
+Arm AGI CPU,93,45,https://newsroom.arm.com/blog/introducing-arm-agi-cpu,2026-03-24 19:16:00.445915
+Apple Business,201,160,https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/,2026-03-24 19:16:00.557705
+Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon,141,61,https://github.com/t8/hypura,2026-03-24 19:16:00.669806
+No Terms. No Conditions,160,66,https://notermsnoconditions.com,2026-03-24 19:16:00.778812
+Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised,134,303,https://github.com/BerriAI/litellm/issues/24512,2026-03-24 19:16:00.900552
+"Hypothesis, Antithesis, synthesis",120,58,https://antithesis.com/blog/2026/hegel/,2026-03-24 19:16:01.014072
+ARM AGI CPU: Specs and SKUs,60,14,https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/,2026-03-24 19:16:01.130007
+"Show HN: Email.md – Markdown to responsive, email-safe HTML",73,21,https://www.emailmd.dev/,2026-03-24 19:16:01.240522
+Lago (YC S21) Is Hiring,1,0,https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link,2026-03-24 19:16:01.393503
+"Show HN: Gemini can now natively embed video, so I built sub-second video search",122,38,https://github.com/ssrajadh/sentrysearch,2026-03-24 19:16:01.535282
+Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains,60,2,https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/,2026-03-24 19:16:01.652454
+Data Manipulation in Clojure Compared to R and Python,32,4,https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html,2026-03-24 19:16:01.765155
+Nanobrew: The fastest macOS package manager compatible with brew,126,76,https://nanobrew.trilok.ai/,2026-03-24 19:16:01.880122
+WolfGuard: WireGuard with FIPS 140-3 cryptography,53,38,https://github.com/wolfssl/wolfguard,2026-03-24 19:16:01.992860
+Testing the Swift C compatibility with Raylib (+WASM),43,15,https://carette.xyz/posts/swift_c_compatibility_with_raylib/,2026-03-24 19:16:02.414458
+Tony Hoare and His Imprint on Computer Science,44,4,https://cacm.acm.org/blogcacm/tony-hoare-and-his-imprint-on-computer-science/,2026-03-24 19:16:02.570429
+"Microsoft's ""Fix"" for Windows 11: Flowers After the Beating",829,607,https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/,2026-03-24 19:16:02.684828
+Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build,78,60,https://github.com/AmElmo/proofshot,2026-03-24 19:16:02.793679
+Debunking Zswap and Zram Myths,148,41,https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html,2026-03-24 19:16:02.909961
+"Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",278,118,https://burntsushi.net/ripgrep/,2026-03-24 19:16:03.021535
+So where are all the AI apps?,312,286,https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html,2026-03-24 19:16:03.137505
+curl > /dev/sda: How I made a Linux distro that runs wget | dd,127,52,https://astrid.tech/2026/03/24/0/curl-to-dev-sda/,2026-03-24 19:16:03.252391
+LaGuardia pilots raised safety alarms months before deadly runway crash,232,187,https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash,2026-03-24 19:16:03.362282
+How to use storytelling to fit inline assembly into Rust,6,0,https://www.ralfj.de/blog/2026/03/13/inline-asm.html,2026-03-24 19:16:03.474396
+Atomic Display Switching: Solving,4,0,https://github.com/piot5/displayflow_cli,2026-03-24 19:16:03.586803
+Secure Domain Name System (DNS) Deployment 2026 Guide [pdf],75,7,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf,2026-03-24 19:16:03.704952
