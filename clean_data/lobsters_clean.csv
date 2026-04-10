@@ -3129,3 +3129,5 @@ Running NixOS Micro VMs on MacOS,5,0,https://abhinavsarkar.net/notes/2026-microv
 Fixing AMDGPU's VRAM management for low-end GPUs,7,0,https://pixelcluster.github.io/VRAM-Mgmt-fixed/,https://lobste.rs/s/e0w1cf,meithecatte,2026-04-09 14:02:43-05:00,2026-04-10 03:33:03,"['graphics', 'linux']",e0w1cf,hot,lobsters
 preact-react-reconciler: turn preact into a react reconciler,3,0,https://github.com/easrng/preact-react-reconciler,https://lobste.rs/s/v188hd,easrng,2026-04-09 14:24:45-05:00,2026-04-10 03:33:03,"['javascript', 'web']",v188hd,hot,lobsters
 Yacc is Not Dead (2010),4,1,https://research.swtch.com/yaccalive,https://lobste.rs/s/ylkrnu,runxiyu,2026-04-09 15:37:12-05:00,2026-04-10 03:33:03,['unix'],ylkrnu,hot,lobsters
+"Installing OpenBSD on the Pomera DM250{,XY?}",3,0,https://jcs.org/2026/04/09/openbsd-dm250,https://lobste.rs/s/tmbbhl,raymii,2026-04-09 22:29:03-05:00,2026-04-10 07:53:40,"['hardware', 'openbsd']",tmbbhl,hot,lobsters
+maki - the efficient coder (AI agent),1,0,https://maki.sh/,https://lobste.rs/s/0vuzbv,msangi,2026-04-10 02:35:09-05:00,2026-04-10 07:53:40,['vibecoding'],0vuzbv,hot,lobsters
