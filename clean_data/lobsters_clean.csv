@@ -3171,3 +3171,7 @@ Surely there must be a way to make container secrets less dangerous?,4,4,https:/
 Writing design docs,9,0,https://blog.ceejbot.com/posts/design-docs/,https://lobste.rs/s/dbm3sa,robey,2026-04-11 14:17:47-05:00,2026-04-12 03:36:37,['practices'],dbm3sa,hot,lobsters
 Bringing Rust to the Pixel Baseband,8,1,https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html,https://lobste.rs/s/wbdjkp,vaguelytagged,2026-04-11 14:00:34-05:00,2026-04-12 03:36:37,['rust'],wbdjkp,hot,lobsters
 Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets,4,0,https://arxiv.org/abs/2604.07902,https://lobste.rs/s/wm1uxw,dbremner,2026-04-11 17:25:07-05:00,2026-04-12 03:36:37,"['compilers', 'math']",wm1uxw,hot,lobsters
+The End of Eleventy,1,1,https://brennan.day/the-end-of-eleventy/,https://lobste.rs/s/s8znzv,henrycatalinismith,2026-04-12 00:56:33-05:00,2026-04-12 07:25:44,['web'],s8znzv,hot,lobsters
+Why I'm Building a Database Engine in C#,2,0,https://nockawa.github.io/blog/why-building-database-engine-in-csharp/,https://lobste.rs/s/uahlqe,hongminhee,2026-04-12 00:51:20-05:00,2026-04-12 07:25:44,"['databases', 'dotnet']",uahlqe,hot,lobsters
+How to build a git diff driver,1,0,https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/,https://lobste.rs/s/xkayyn,hugoarnal,2026-04-12 02:25:13-05:00,2026-04-12 07:25:44,['vcs'],xkayyn,hot,lobsters
+IrDA,1,0,https://computer.rip/2026-04-11-IrDA.html,https://lobste.rs/s/iy5upt,binjip978,2026-04-12 01:46:36-05:00,2026-04-12 07:25:44,"['historical', 'networking']",iy5upt,hot,lobsters
