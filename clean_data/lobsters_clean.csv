@@ -3297,3 +3297,6 @@ EsoNatLangs Bring the Complexity of Natural Language into Code,6,0,https://esote
 Clojure: The Documentary,3,0,https://www.youtube.com/watch?v=Y24vK_QDLFg,https://lobste.rs/s/nvzsa5,binjip978,2026-04-16 14:12:07-05:00,2026-04-16 19:27:00,"['clojure', 'video']",nvzsa5,hot,lobsters
 Detecting DOSBox from within the Box,5,0,http://datagirl.xyz/posts/dos_inside_the_box.html,https://lobste.rs/s/ebltpu,calvin,2026-04-16 09:42:07-05:00,2026-04-16 19:27:00,['assembly'],ebltpu,hot,lobsters
 The Claude Coding Vibes Are Getting Worse,1,0,https://blog.matthewbrunelle.com/the-claude-coding-vibes-are-getting-worse/,https://lobste.rs/s/xaicu8,ciferkey,2026-04-16 14:16:00-05:00,2026-04-16 19:27:00,['programming'],xaicu8,hot,lobsters
+"Okay, what actually uses Rust",14,6,https://blog.goose.love/posts/what-actually-uses-rust/,https://lobste.rs/s/dlxlvj,blyxyas,2026-04-16 15:32:27-05:00,2026-04-17 03:34:31,['rust'],dlxlvj,hot,lobsters
+Tech Note: Sidenotes,5,4,https://unbreaking.org/blog/tech-note-sidenotes/,https://lobste.rs/s/rswccw,fcbsd,2026-04-16 13:44:27-05:00,2026-04-17 03:34:31,"['a11y', 'web']",rswccw,hot,lobsters
+A Better R Programming Experience Thanks to Tree-sitter,3,2,https://ropensci.org/blog/2026/04/02/tree-sitter-overview/,https://lobste.rs/s/boluto,knl,2026-04-16 16:38:52-05:00,2026-04-17 03:34:31,['programming'],boluto,hot,lobsters
