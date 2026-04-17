@@ -3300,3 +3300,6 @@ The Claude Coding Vibes Are Getting Worse,1,0,https://blog.matthewbrunelle.com/t
 "Okay, what actually uses Rust",14,6,https://blog.goose.love/posts/what-actually-uses-rust/,https://lobste.rs/s/dlxlvj,blyxyas,2026-04-16 15:32:27-05:00,2026-04-17 03:34:31,['rust'],dlxlvj,hot,lobsters
 Tech Note: Sidenotes,5,4,https://unbreaking.org/blog/tech-note-sidenotes/,https://lobste.rs/s/rswccw,fcbsd,2026-04-16 13:44:27-05:00,2026-04-17 03:34:31,"['a11y', 'web']",rswccw,hot,lobsters
 A Better R Programming Experience Thanks to Tree-sitter,3,2,https://ropensci.org/blog/2026/04/02/tree-sitter-overview/,https://lobste.rs/s/boluto,knl,2026-04-16 16:38:52-05:00,2026-04-17 03:34:31,['programming'],boluto,hot,lobsters
+Folk Computer,3,1,https://folk.computer/start,https://lobste.rs/s/yr2mcf,PuercoPop,2026-04-17 00:43:07-05:00,2026-04-17 08:01:19,['art'],yr2mcf,hot,lobsters
+git-kv: Key-value store attached to git commits using Git notes,2,0,https://github.com/sebastien/git-kv,https://lobste.rs/s/ygjm5d,sebastien,2026-04-16 23:11:13-05:00,2026-04-17 08:01:19,"['devops', 'unix', 'vcs']",ygjm5d,hot,lobsters
+Demystifying disassemblers,1,1,https://briancallahan.net/blog/20210408.html,https://lobste.rs/s/lcjbr0,juliethefoxcoon,2026-04-17 02:15:22-05:00,2026-04-17 08:01:19,['assembly'],lcjbr0,hot,lobsters
