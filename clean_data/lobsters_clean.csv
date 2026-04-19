@@ -3345,3 +3345,4 @@ Anthropic Claude Code Leak Reveals Critical Command Injection Vulnerabilities,1,
 Yojam: a macOS default-browser shim that routes URLs through a rule engine,2,0,https://github.com/fluffypony/yojam,https://lobste.rs/s/na7cxg,fluffypony,2026-04-19 02:32:29-05:00,2026-04-19 07:41:43,"['mac', 'privacy', 'release']",na7cxg,hot,lobsters
 When compilers surprise you,4,0,https://xania.org/202512/24-cunning-clang,https://lobste.rs/s/vugypt,eranb,2026-04-19 00:34:20-05:00,2026-04-19 07:41:43,['compilers'],vugypt,hot,lobsters
 Optimizing xreferee with elemIndex,2,0,https://brandonchinn178.github.io/posts/2026/04/17/optimizing-xreferee-with-elemindex/,https://lobste.rs/s/uxjpyz,luthenwald,2026-04-19 01:40:31-05:00,2026-04-19 07:41:43,['haskell'],uxjpyz,hot,lobsters
+SI Units for Request Rate,9,2,https://entropicthoughts.com/si-units-for-request-rate,https://lobste.rs/s/x5hnnp,noncrab,2026-04-19 04:04:50-05:00,2026-04-19 13:20:07,['programming'],x5hnnp,hot,lobsters
